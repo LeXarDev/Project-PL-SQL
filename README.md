@@ -3,5 +3,5 @@ borrowings, and book count. Additionally, it incorporates procedures and
 functions for managing books and members, as well as a package for more 
 advanced operations .
 
-UB-BISHA - COLLEGE OF COMPUTING AND INFORMATION TECHNOLOGY
+UN-BISHA - COLLEGE OF COMPUTING AND INFORMATION TECHNOLOGY
 Course - DBProgramming
